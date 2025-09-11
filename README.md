@@ -4,7 +4,6 @@
   
   Computer Science Graduate @ Queen's University Belfast
 </h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rafaelgoodman&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelgoodman" /> </p>
 
 
 <hr />
