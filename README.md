@@ -1,5 +1,6 @@
+[comment]: <> (Skill Badges Link: https://home.aveek.io/GitHub-Profile-Badges/)
 <div align="center">
-  
+
 # **Rafael Goodman**
 
 **Graduate Software Engineer @ Argus Media**  
