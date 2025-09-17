@@ -23,7 +23,6 @@ _Computer Science Graduate @ Queen's University Belfast_
 [![JavaScript](https://img.shields.io/badge/Javascript-FFA500.svg?style=for-the-badge&logo=Javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![MATLAB](https://img.shields.io/badge/Matlab-FC521F.svg?style=for-the-badge&logo=Matlab&logoColor=white)](https://www.mathworks.com/)
-[![Angular](https://img.shields.io/badge/Angular-D00000.svg?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io)
 
 ## 📖 Libraries & Frameworks
 [![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
@@ -33,6 +32,7 @@ _Computer Science Graduate @ Queen's University Belfast_
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
 [![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Angular](https://img.shields.io/badge/Angular-D00000.svg?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io)
 
 ## 🛠️ Tools and Applications
 
