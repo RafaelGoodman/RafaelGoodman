@@ -3,14 +3,14 @@
 
 # **Rafael Goodman**
 
-**Graduate Software Engineer @ Argus Media**  
+**Graduate Software Engineer @ <a href="https://www.argusmedia.com/">Argus Media</a>**  
 _Computer Science Graduate @ Queen's University Belfast_
 
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://linkedin.com/in/rafaelgoodman)
+<a href="https://www.linkedin.com/in/rafaelgoodman/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn" width="75" height="75"></a>
+<a href="mailto:rafael@sky.com"><img src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-email-material-design-1024.png" alt="Email" width="75" height="75"></a>
 
 ---
 
